@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactProject/static/css/main.4d219384.chunk.css",
-    "main.js": "/ReactProject/static/js/main.67603e55.chunk.js",
-    "main.js.map": "/ReactProject/static/js/main.67603e55.chunk.js.map",
-    "runtime-main.js": "/ReactProject/static/js/runtime-main.9f27a55a.js",
-    "runtime-main.js.map": "/ReactProject/static/js/runtime-main.9f27a55a.js.map",
-    "static/js/2.7202c82d.chunk.js": "/ReactProject/static/js/2.7202c82d.chunk.js",
-    "static/js/2.7202c82d.chunk.js.map": "/ReactProject/static/js/2.7202c82d.chunk.js.map",
-    "static/js/3.47459cea.chunk.js": "/ReactProject/static/js/3.47459cea.chunk.js",
-    "static/js/3.47459cea.chunk.js.map": "/ReactProject/static/js/3.47459cea.chunk.js.map",
-    "index.html": "/ReactProject/index.html",
-    "static/css/main.4d219384.chunk.css.map": "/ReactProject/static/css/main.4d219384.chunk.css.map",
-    "static/js/2.7202c82d.chunk.js.LICENSE.txt": "/ReactProject/static/js/2.7202c82d.chunk.js.LICENSE.txt"
+    "main.css": "/Common_React_test_project/static/css/main.4d219384.chunk.css",
+    "main.js": "/Common_React_test_project/static/js/main.67603e55.chunk.js",
+    "main.js.map": "/Common_React_test_project/static/js/main.67603e55.chunk.js.map",
+    "runtime-main.js": "/Common_React_test_project/static/js/runtime-main.2c570af5.js",
+    "runtime-main.js.map": "/Common_React_test_project/static/js/runtime-main.2c570af5.js.map",
+    "static/js/2.7202c82d.chunk.js": "/Common_React_test_project/static/js/2.7202c82d.chunk.js",
+    "static/js/2.7202c82d.chunk.js.map": "/Common_React_test_project/static/js/2.7202c82d.chunk.js.map",
+    "static/js/3.47459cea.chunk.js": "/Common_React_test_project/static/js/3.47459cea.chunk.js",
+    "static/js/3.47459cea.chunk.js.map": "/Common_React_test_project/static/js/3.47459cea.chunk.js.map",
+    "index.html": "/Common_React_test_project/index.html",
+    "static/css/main.4d219384.chunk.css.map": "/Common_React_test_project/static/css/main.4d219384.chunk.css.map",
+    "static/js/2.7202c82d.chunk.js.LICENSE.txt": "/Common_React_test_project/static/js/2.7202c82d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f27a55a.js",
+    "static/js/runtime-main.2c570af5.js",
     "static/js/2.7202c82d.chunk.js",
     "static/css/main.4d219384.chunk.css",
     "static/js/main.67603e55.chunk.js"
