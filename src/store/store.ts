@@ -3,16 +3,24 @@ import thunkMiddleware from 'redux-thunk'
 import {userReducer} from "./user-reducer";
 import {logInReducer} from "./log_in-reducer";
 import {registerReducer} from "./register-reducer";
-
-// import { reducer as formReducer } from 'redux-form'
-
+import {profileReducer} from "./profile-reducer";
+import {loginErrorReducer} from './loginError-reducer'
+import {tableReducer} from "./table-reducer";
+import {sortReducer} from "./sort-reducer";
+import {paginationReducer} from "./pagination-reducer";
+import {packsSearchReducer} from "./search-reducer";
 
 
 const rootReducer = combineReducers({
     user:userReducer,
     logIn:logInReducer,
     register: registerReducer,
-    // form:formReducer
+    profileDate:profileReducer,
+    error:loginErrorReducer,
+    sortPacks: sortReducer,
+    pagination: paginationReducer,
+    packsSearch: packsSearchReducer,
+    tableData:tableReducer
 })
 
 export const store = createStore(rootReducer,applyMiddleware(thunkMiddleware))
