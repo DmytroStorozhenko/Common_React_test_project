@@ -15,7 +15,7 @@ export const PasswordRecovery = () => {
             setResponseMessage(response.data.info)
             values.email = ''
         } catch (error) {
-            errors.email = error.response.data.error
+            errors.email = error.response.data.info
         } finally {
             setIsDisable(false)
         }
